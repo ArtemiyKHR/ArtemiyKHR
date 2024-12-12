@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-✨ I'm wanna be a frontend developer (intern)
+✨ I'm wanna be a frontend developer (intern).
 
 🌱 I’m currently learning: JS, TS, React.
 
