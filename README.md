@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Artem Khrusch 👋
 
 <!--
 **ArtemiyKHR/ArtemiyKHR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+✨ I'm wanna be a frontend developer (intern).
+🌱 I’m currently learning: [<img align="left" alt="medium" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />][blog], [<img align="left" alt="medium" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>][blog]
